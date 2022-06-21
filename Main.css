@@ -1,0 +1,25 @@
+body{background-color:rgb(0, 0, 0); text-align: center;}
+@media only screen and (min-width: 0px)  {h1{font-size: medium; color: rgb(150, 150, 150)}}
+@media only screen and (min-width: 0px)  {p{font-size: 2vw; color: rgb(150, 150, 150)}}
+@media only screen and (min-width: 600px)  {h1{font-size: x-large; color: rgb(150, 150, 150)}}
+@media only screen and (min-width: 600px)  {p{font-size: medium; color: rgb(150, 150, 150)}}
+.column1{text-align: center;}
+.column1_center{margin-left: auto; margin-right: auto;}
+.column2{text-align: center;}
+.column2_center{margin-left: auto; margin-right: auto;}
+.column3{text-align: center;}
+.column3_center{margin-left: auto; margin-right: auto;}
+.column4{text-align: center;}
+.column4_center{margin-left: auto; margin-right: auto;}
+.column5{text-align: center;}
+.column5_center{margin-left: auto; margin-right: auto;}
+.column6{text-align: center;}
+.column6_center{margin-left: auto; margin-right: auto;}
+.column7{text-align: center;}
+.column7_center{margin-left: auto; margin-right: auto;}
+.column8{text-align: center;}
+.column8_center{margin-left: auto; margin-right: auto;}
+.column9{text-align: center;}
+.column9_center{margin-left: auto; margin-right: auto;}
+.column10{text-align: center;}
+.column10_center{margin-left: auto; margin-right: auto;}
