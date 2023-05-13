@@ -3,4 +3,4 @@ body{background-color:rgb(0, 0, 0); text-align: center;}
 @media only screen and (min-width: 0px)  {p{font-size: 2vw; color: rgb(150, 150, 150)}}
 @media only screen and (min-width: 600px)  {h1{font-size: x-large; color: rgb(150, 150, 150)}}
 @media only screen and (min-width: 600px)  {p{font-size: medium; color: rgb(150, 150, 150)}}
-table{margin-left: auto; margin-right: auto;}
+table,a{margin-left: auto; margin-right: auto; text-decoration: none;}
