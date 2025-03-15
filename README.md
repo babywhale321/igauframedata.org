@@ -1,5 +1,3 @@
 # Domains
 
-https://igauframedata.org
-
-https://igauframedata.azurewebsites.net
+https://igauframedata.pages.dev/
